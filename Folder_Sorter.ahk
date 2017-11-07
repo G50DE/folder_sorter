@@ -1,4 +1,3 @@
-formattime, date1, , yy_MM_dd
 formattime, date2, , yy_MM
 
 DataPath = c:\temp
